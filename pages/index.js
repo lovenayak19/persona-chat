@@ -33,7 +33,7 @@ export default function Home() {
           justifyContent: "space-between"
         }}>
           <div>
-            <img src="/images/piyush.png" alt="Piyush Garg" style={{ width: "100%", borderRadius: "10px" }} />
+          <img src="/images/Piyush.png" alt="Piyush Garg" style={{ width: "100%", borderRadius: "10px" }} />
             <h3 style={{ marginTop: "15px" }}>Piyush Garg</h3>
             <p>Technical Educator & Live Coder — teaches by live coding in real time.</p>
             <div style={{ marginTop: "10px" }}>
@@ -78,7 +78,7 @@ export default function Home() {
           justifyContent: "space-between"
         }}>
           <div>
-            <img src="/images/hitesh.png" alt="Hitesh Choudhary" style={{ width: "100%", borderRadius: "10px" }} />
+          <img src="/images/Hitesh.png" alt="Hitesh Choudhary" style={{ width: "100%", borderRadius: "10px" }} />
             <h3 style={{ marginTop: "15px" }}>Hitesh Choudhary</h3>
             <p>Coding Mentor & Tech Educator — known for Chai aur Code channel.</p>
             <div style={{ marginTop: "10px" }}>
